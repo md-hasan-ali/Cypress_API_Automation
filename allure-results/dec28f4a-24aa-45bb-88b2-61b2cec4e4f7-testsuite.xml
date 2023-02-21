@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1676997679876' stop='1676997681367'>
+    <name></name>
+    <title></title>
+    <test-cases>
+        <test-case start='1676997679915' status='failed' stop='1676997681186'>
+            <name>get country China Information</name>
+            <title>get country China Information</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>expected 'Macau' to equal 'China'</message>
+                <stack-trace>AssertionError: expected 'Macau' to equal 'China'
+                    at Context.eval (http://localhost:14755/__cypress/tests?p=cypress\integration\apitests\China_endpoint.js:109:40)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

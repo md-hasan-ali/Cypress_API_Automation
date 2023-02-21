@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1676998069201' stop='1676998070559'>
+    <name></name>
+    <title></title>
+    <test-cases>
+        <test-case start='1676998069229' status='passed' stop='1676998070530'>
+            <name>get country Argentina Information</name>
+            <title>get country Argentina Information</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

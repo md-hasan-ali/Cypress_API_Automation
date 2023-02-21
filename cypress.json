@@ -1,0 +1,14 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "env": {
+        "email": "test@test.com",
+        "password": "test"
+    },
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/results/specs",
+        "overwrite": false,
+        "html": false,
+        "json": true
+    }
+}
